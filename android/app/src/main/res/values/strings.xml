@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">给水泵选型</string>
+    <string name="title_activity_main">给水泵选型</string>
+    <string name="package_name">com.pumpselect.app</string>
+    <string name="custom_url_scheme">com.pumpselect.app</string>
+</resources>
